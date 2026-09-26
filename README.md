@@ -5,5 +5,7 @@ Repository for OSS course in the ITM major. The purpose is for students to test 
 
 This are the comments of 2025 OSS students:
 
-I am so hungry
-I want to eat chocolate cake
+- I am so hungry
+- I want to eat chocolate cake
+- It's Friday again
+
